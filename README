@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Finance-TWS-Simple,
+version 0.000_01:
+
+  simple InteractiveBrokers API (blocking abstraction over AnyEvent::TWS)
+
+This software is copyright (c) 2012 by Uwe Voelker.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
